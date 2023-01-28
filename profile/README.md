@@ -10,4 +10,4 @@ The project is hosted by [LMU Munich](https://www.lmu.de/en/index.html) and fund
 
 For background information, see the project's landing page at [www.federatedsecure.com](https://www.federatedsecure.com).
 
-Support is available at [federatedsecure@lrz.uni-muenchen.de](mailto:federatedsecure@lrz.uni-muenchen.de).
+Support is available at [federatedsecurecomputing@lrz.uni-muenchen.de](mailto:federatedsecurecomputing@lrz.uni-muenchen.de).
