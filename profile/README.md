@@ -48,7 +48,7 @@ The project is hosted by [LMU Munich](https://www.lmu.de/en/index.html) and fund
    <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/client-python/main/.github/badges/pylint.svg" /></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/client-python" /></td>
   </tr>
-   <td>client-python</td>
+   <td>client-r</td>
    <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/client-r" /></td>
    <td></td>
    <td></td>
