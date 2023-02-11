@@ -19,14 +19,58 @@ The project is hosted by [LMU Munich](https://www.lmu.de/en/index.html) and fund
   <tr>
    <td>repository</td>
    <td>license</td>
-   <td>checks</td>
+   <td>CodeQL</td>
    <td>rating</td>
+   <td>issues</td>
   </tr>
   <tr>
    <td>api</td>
-   <td>![license](https://img.shields.io/github/license/federatedsecure/api)</td>
-   <td>![swagger-validator](https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Ffederatedsecure%2Fapi%2Fmain%2Fopenapi.yaml)</td>
+   <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/api" /></td>
    <td></td>
+   <td><img alt="Swagger" src="https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Ffederatedsecure%2Fapi%2Fmain%2Fopenapi.yaml" /></td>
+   <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/api" /></td>
+  </tr>
+  <tr>
+   <td>client-javascript</td>
+   <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/client-javascript" /></td>
+   <td><img alt="CodeQL" src="https://github.com/federatedsecure/client-javascript/workflows/CodeQL/badge.svg" /></td>
+   <td></td>
+   <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/client-javascript" /></td>
+  </tr>
+  <tr>
+   <td>client-python</td>
+   <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/client-python" /></td>
+   <td><img alt="CodeQL" src="https://github.com/federatedsecure/client-python/workflows/CodeQL/badge.svg" /></td>
+   <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/client-python/main/.github/badges/pylint.svg" /></td>
+   <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/client-python" /></td>
+  </tr>
+  <tr>
+   <td>server</td>
+   <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/server" /></td>
+   <td><img alt="CodeQL" src="https://github.com/federatedsecure/server/workflows/CodeQL/badge.svg" /></td>
+   <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/server/main/.github/badges/pylint.svg" /></td>
+   <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/server" /></td>
+  </tr>
+  <tr>
+   <td>service-simon</td>
+   <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/service-simon" /></td>
+   <td><img alt="CodeQL" src="https://github.com/federatedsecure/service-simon/workflows/CodeQL/badge.svg" /></td>
+   <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/service-simon/main/.github/badges/pylint.svg" /></td>
+   <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/service-simon" /></td>
+  </tr>
+  <tr>
+   <td>webserver-connexion</td>
+   <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/webserver-connexion" /></td>
+   <td><img alt="CodeQL" src="https://github.com/federatedsecure/webserver-connexion/workflows/CodeQL/badge.svg" /></td>
+   <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/webserver-connexion/main/.github/badges/pylint.svg" /></td>
+   <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/webserver-connexion" /></td>
+  </tr>
+  <tr>
+   <td>webserver-django</td>
+   <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/webserver-django" /></td>
+   <td><img alt="CodeQL" src="https://github.com/federatedsecure/webserver-django/workflows/CodeQL/badge.svg" /></td>
+   <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/webserver-django/main/.github/badges/pylint.svg" /></td>
+   <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/webserver-django" /></td>
   </tr>
  </thead>
 </table>
