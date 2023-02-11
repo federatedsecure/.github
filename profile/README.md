@@ -13,3 +13,20 @@ For non-technical background information, see the project's landing page at [www
 Support is available at [federatedsecurecomputing@lrz.uni-muenchen.de](mailto:federatedsecurecomputing@lrz.uni-muenchen.de).
 
 The project is hosted by [LMU Munich](https://www.lmu.de/en/index.html) and funded by [Stifterverband](https://www.stifterverband.org/english).
+
+<table>
+ <thead>
+  <tr>
+   <td>repository</td>
+   <td>license</td>
+   <td>checks</td>
+   <td>rating</td>
+  </tr>
+  <tr>
+   <td>api</td>
+   <td>![license](https://img.shields.io/github/license/federatedsecure/api)</td>
+   <td>![swagger-validator](https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Ffederatedsecure%2Fapi%2Fmain%2Fopenapi.yaml)</td>
+   <td></td>
+  </tr>
+ </thead>
+</table>
