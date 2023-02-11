@@ -14,14 +14,18 @@ Support is available at [federatedsecurecomputing@lrz.uni-muenchen.de](mailto:fe
 
 The project is hosted by [LMU Munich](https://www.lmu.de/en/index.html) and funded by [Stifterverband](https://www.stifterverband.org/english).
 
+---
+
+**Dashboard**
+
 <table>
  <thead>
   <tr>
-   <td>repository</td>
-   <td>license</td>
-   <td>CodeQL</td>
-   <td>rating</td>
-   <td>issues</td>
+   <td><b>repository</b></td>
+   <td><b>license</b></td>
+   <td><b>CodeQL</b></td>
+   <td><b>rating</b></td>
+   <td><b>issues</b></td>
   </tr>
   <tr>
    <td>api</td>
