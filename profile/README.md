@@ -22,7 +22,7 @@ Python 3.x is all you need to follow along.
 
 ## Server setup
 
-In Federated Secure Computing, every party runs their own server. The server holds the private data of each party. Computations happen in an encrypted peer-to-peer network between the servers. Only the result of the computation is then revealed to all servers.
+In the Federated Secure Computing architecture, every party runs their own server. The server holds the private data of each party. Computations happen in an encrypted peer-to-peer network between the servers. Only the result of the computation is then revealed to all servers.
 
 In the following example, we are running three servers on the same machine. In reality, they could be all over the world and on very different types of machines.
 
@@ -36,17 +36,17 @@ pip install federatedsecure-simon
 Federated Secure Computing is provided through an OpenAPI 3.0 definition. You can easily generate server stubs for your favourite webserver. We premade a Connexion/Flask app served by Uvicorn:
 
 ```
-git clone https://github.com/federatedsecure/webserver-connexion
-cd webserver-connexion
 pip install connexion[flask,uvicorn,swagger-ui]
+git clone https://github.com/federatedsecure/webserver-connexion
 ```
 
 For this example, we are running three servers on localhost on ports 55501 through 55503. Feel free to use any other ports:
 
 ```
-python ./src/__main__.py --port=55501 &
-python ./src/__main__.py --port=55502 &
-python ./src/__main__.py --port=55503 &
+cd webserver-connexion/src
+python __main__.py --port=55501 &
+python __main__.py --port=55502 &
+python __main__.py --port=55503 &
 ```
 
 You may want to check if the servers are running by browsing to [http://127.0.0.1:55501/representations](http://127.0.0.1:55501/representations).
