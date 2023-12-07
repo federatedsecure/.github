@@ -91,9 +91,9 @@ That is all.
 We now let the three clients run in parallel:
 
 ```
-python secure_sum 0 19 &
-python secure_sum 1 5 &
-python secure_sum 2 61
+python secure_sum.py 0 19 &
+python secure_sum.py 1 5 &
+python secure_sum.py 2 61
 ```
 
 The result reads:
