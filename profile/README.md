@@ -6,7 +6,7 @@
 - Secure: encrypts all communication in their private peer-to-peer network
 - Computing: acts as a middleware to let them run joint analysis on their data
 
-The motivation, architecture, design, and implementation choices are explained in the [technical whitepaper](https://github.com/federatedsecure/whitepaper).
+The motivation, architecture, design, and implementation choices are explained in a detailed 25-page technical whitepaper. The whitepaper has been published in a peer-reviewed open access journal. [Read it here.](https://www.mdpi.com/2227-9709/10/4/83/htm)
 
 For non-technical background information, see the project's landing page at [www.federatedsecure.com](https://www.federatedsecure.com).
 
