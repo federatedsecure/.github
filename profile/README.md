@@ -68,7 +68,7 @@ import sys
 import federatedsecure.client
 
 # The three servers we started form a peer-to-peer network. Their adresses and ports need to be known to each other:
-SHARED_NODES = [http://127.0.0.1:55501, http://127.0.0.1:55502, http://127.0.0.1:55503]
+SHARED_NODES = ['http://127.0.0.1:55501', 'http://127.0.0.1:55502', 'http://127.0.0.1:55503']
 
 # every calculation in Federated Secure Computation is identified by a unique identifier. This UUID is shared by all three servers:
 SHARED_UUID = "387a7282-c380-44c9-aede-08da7e931931"
