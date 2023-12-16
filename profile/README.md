@@ -123,7 +123,7 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><b>issues</b></td>
   </tr>
   <tr>
-   <td><a href="https://github.com/federatedsecure/whitepaper">api</a></td>
+   <td><a href="https://github.com/federatedsecure/whitepaper">whitepaper</a></td>
    <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/whitepaper" /></td>
    <td></td>
    <td></td>
