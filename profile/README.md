@@ -44,9 +44,9 @@ For this example, we are running three servers on localhost on ports 55501 throu
 
 ```
 cd webserver-connexion/src
-python __main__.py --port=55501 &
-python __main__.py --port=55502 &
-python __main__.py --port=55503 &
+python __main__.py port=55501 &
+python __main__.py port=55502 &
+python __main__.py port=55503 &
 ```
 
 You may want to check if the servers are running by browsing to [http://127.0.0.1:55501/representations](http://127.0.0.1:55501/representations).
