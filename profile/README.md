@@ -121,10 +121,12 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><b>CodeQL</b></td>
    <td><b>rating</b></td>
    <td><b>issues</b></td>
+   <td><b>pull requests</b></td>
   </tr>
   <tr>
    <td><a href="https://github.com/federatedsecure/whitepaper">whitepaper</a></td>
    <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/whitepaper" /></td>
+   <td></td>
    <td></td>
    <td></td>
    <td></td>
@@ -135,6 +137,7 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td></td>
    <td><img alt="Swagger" src="https://img.shields.io/swagger/valid/3.0?specUrl=https%3A%2F%2Fraw.githubusercontent.com%2Ffederatedsecure%2Fapi%2Fmain%2Fopenapi.yaml" /></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/api" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/api" /></td>
   </tr>
   <tr>
    <td><a href="https://github.com/federatedsecure/client-javascript">client-javascript</a></td>
@@ -142,6 +145,7 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><img alt="CodeQL" src="https://github.com/federatedsecure/client-javascript/workflows/CodeQL/badge.svg" /></td>
    <td></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/client-javascript" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/client-javascript" /></td>
   </tr>
   <tr>
    <td><a href="https://github.com/federatedsecure/client-python">client-python</a></td>
@@ -149,12 +153,14 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><img alt="CodeQL" src="https://github.com/federatedsecure/client-python/workflows/CodeQL/badge.svg" /></td>
    <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/client-python/main/.github/badges/pylint.svg" /></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/client-python" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/client-python" /></td>
   </tr>
    <td><a href="https://github.com/federatedsecure/client-r">client-r</a></td>
    <td><img alt="license" src="https://img.shields.io/github/license/federatedsecure/client-r" /></td>
    <td></td>
    <td></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/client-r" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/client-r" /></td>
   </tr>
   <tr>
    <td><a href="https://github.com/federatedsecure/server">server</a></td>
@@ -162,6 +168,7 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><img alt="CodeQL" src="https://github.com/federatedsecure/server/workflows/CodeQL/badge.svg" /></td>
    <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/server/main/.github/badges/pylint.svg" /></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/server" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/server" /></td>
   </tr>
   <tr>
    <td><a href="https://github.com/federatedsecure/service-simon">service-simon</a></td>
@@ -169,6 +176,7 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><img alt="CodeQL" src="https://github.com/federatedsecure/service-simon/workflows/CodeQL/badge.svg" /></td>
    <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/service-simon/main/.github/badges/pylint.svg" /></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/service-simon" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/service-simon" /></td>
   </tr>
   <tr>
    <td><a href="https://github.com/federatedsecure/webserver-connexion">webserver-connexion</a></td>
@@ -176,6 +184,7 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><img alt="CodeQL" src="https://github.com/federatedsecure/webserver-connexion/workflows/CodeQL/badge.svg" /></td>
    <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/webserver-connexion/main/.github/badges/pylint.svg" /></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/webserver-connexion" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/webserver-connexion" /></td>
   </tr>
   <tr>
    <td><a href="https://github.com/federatedsecure/webserver-django">webserver-django</a></td>
@@ -183,6 +192,7 @@ Did it compute? Congratulations, you have successfully computed a secure sum.
    <td><img alt="CodeQL" src="https://github.com/federatedsecure/webserver-django/workflows/CodeQL/badge.svg" /></td>
    <td><img alt="Pylint" src="https://raw.githubusercontent.com/federatedsecure/webserver-django/main/.github/badges/pylint.svg" /></td>
    <td><img alt="issues" src="https://img.shields.io/github/issues/federatedsecure/webserver-django" /></td>
+   <td><img alt="prs" src="https://img.shields.io/github/issues-pr-raw/federatedsecure/webserver-django" /></td>
   </tr>
  </thead>
 </table>
