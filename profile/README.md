@@ -101,11 +101,7 @@ The result reads:
 ```
 {
   'inputs': 3,
-  'result':
-  {
-    'samples': 3,
-    'sum': 85.0
-  }
+  'result': { 'sum': 85.0 }
 }
 ```
 
